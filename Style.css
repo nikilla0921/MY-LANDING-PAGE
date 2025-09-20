@@ -1,10 +1,10 @@
 /* Estilos generales */
 :root {
-    /*--primary-color: #114B5F;
-    --secondary-color: #1A936F;
+    /*--primary-color: #867E74;
+    --secondary-color: #COA993;
     --text-color: #333333;;
-    --background-color: #F3E9D2;
-    --light-gray: #C6DABF;*/
+    --background-color: #ECE8E5;
+    --light-gray: #474546;*/
 }
 
 
@@ -150,7 +150,7 @@ body {
 }
 
 .linktree-link:hover {
-    background-color: #2980b9;
+    background-color: #ECE8E5;
 }
 
 /* Contact Form */
@@ -166,7 +166,7 @@ body {
 .contact-form textarea {
     padding: 1rem;
     margin-bottom: 1rem;
-    border: 1px solid #ccc;
+    border: 1px solid #474546;
     border-radius: 5px;
 }
 
@@ -182,7 +182,7 @@ body {
 }
 
 .submit-button:hover {
-    background-color: #2980b9;
+    background-color: #ECE8E5;
 }
 
 /* Footer */
@@ -211,4 +211,5 @@ body {
     .list li {
         text-align: center;
     }
+
 }
